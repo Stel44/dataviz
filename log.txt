@@ -1,0 +1,2706 @@
+
+Called function load_dataset_19 in 33.015620470047
+
+Called function price_per_meter in 0.06268906593322754
+
+Called function display_table in 0.02592015266418457
+
+Called function MapFigure in 21.73721480369568
+
+Called function display_histo_one in 0.00099945068359375
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function pie_chart in 6.155228137969971
+
+Called function load_dataset_19 in 26.460439443588257
+
+Called function price_per_meter in 0.04388284683227539
+
+Called function display_table in 0.006963253021240234
+
+Called function MapFigure in 6.349776268005371
+
+Called function display_histo_one in 0.0
+
+Called function pie_chart in 0.0
+
+Called function load_dataset_19 in 0.006983280181884766
+
+Called function price_per_meter in 0.034906625747680664
+
+Called function display_table in 0.001001596450805664
+
+Called function MapFigure in 7.054280996322632
+
+Called function display_histo_one in 0.0010275840759277344
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function pie_chart in 4.649222373962402
+
+Called function load_dataset_19 in 28.24194073677063
+
+Called function display_table in 0.004988193511962891
+
+Called function MapFigure in 9.260384321212769
+
+Called function display_histo_one in 0.0009965896606445312
+
+Called function pie_chart in 0.0009968280792236328
+
+Called function load_dataset_19 in 0.0059778690338134766
+
+Called function display_table in 0.000997304916381836
+
+Called function MapFigure in 10.66977858543396
+
+Called function display_histo_one in 0.000997781753540039
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0009999275207519531
+
+Called function count_rows in 0.0
+
+Called function pie_chart in 5.518351793289185
+
+Called function load_dataset_19 in 0.002984285354614258
+
+Called function display_table in 0.0
+
+Called function MapFigure in 11.336955785751343
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function load_dataset_19 in 0.0668191909790039
+
+Called function display_table in 0.000993967056274414
+
+Called function MapFigure in 10.47317361831665
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function display_histo_one in 11.270526885986328
+
+Called function pie_chart in 0.003991603851318359
+
+Called function load_dataset_19 in 0.003988504409790039
+
+Called function display_table in 0.0009944438934326172
+
+Called function MapFigure in 9.013558864593506
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0009951591491699219
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function display_histo_one in 4.301971912384033
+
+Called function pie_chart in 0.0009999275207519531
+
+Called function load_dataset_19 in 0.0019919872283935547
+
+Called function display_table in 0.0009996891021728516
+
+Called function MapFigure in 8.520839214324951
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0009984970092773438
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0009906291961669922
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function display_histo_one in 7.209024667739868
+
+Called function pie_chart in 0.000997781753540039
+
+Called function load_dataset_19 in 0.012964010238647461
+
+Called function display_table in 0.0009937286376953125
+
+Called function MapFigure in 10.22503662109375
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.001003265380859375
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0009970664978027344
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0009968280792236328
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function display_histo_one in 3.922239303588867
+
+Called function pie_chart in 0.0
+
+Called function load_dataset_19 in 0.0029897689819335938
+
+Called function display_table in 0.000997781753540039
+
+Called function MapFigure in 21.07430624961853
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0009958744049072266
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.000997781753540039
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0009958744049072266
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.000995635986328125
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function load_dataset_19 in 27.179729461669922
+
+Called function display_table in 0.00600743293762207
+
+Called function MapFigure in 9.14735460281372
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function display_histo_one in 3.8115861415863037
+
+Called function pie_chart in 0.000997304916381836
+
+Called function load_dataset_19 in 27.223037004470825
+
+Called function display_table in 0.005981922149658203
+
+Called function MapFigure in 20.480836391448975
+
+Called function display_histo_one in 0.0009970664978027344
+
+Called function pie_chart in 0.0
+
+Called function load_dataset_20 in 18.99856162071228
+
+Called function display_table in 0.008979558944702148
+
+Called function MapFigure in 5.202852964401245
+
+Called function display_histo_one in 0.000997304916381836
+
+Called function pie_chart in 0.0009963512420654297
+
+Called function load_dataset_20 in 0.009971141815185547
+
+Called function load_dataset_19 in 33.1248242855072
+
+Called function display_table in 0.01234579086303711
+
+Called function MapFigure in 12.598912000656128
+
+Called function display_histo_one in 0.00141143798828125
+
+Called function pie_chart in 0.0
+
+Called function load_dataset_19 in 0.01396942138671875
+
+Called function display_table in 0.0
+
+Called function MapFigure in 14.786675453186035
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0009913444519042969
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0009951591491699219
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function display_histo_one in 3.8038454055786133
+
+Called function pie_chart in 0.0
+
+Called function load_dataset_19 in 0.0037364959716796875
+
+Called function display_table in 0.000997781753540039
+
+Called function MapFigure in 9.570561170578003
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.000997781753540039
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function display_histo_one in 7.026282787322998
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function pie_chart in 5.487236261367798
+
+Called function load_dataset_19 in 0.006987810134887695
+
+Called function display_table in 0.0
+
+Called function MapFigure in 20.445916891098022
+
+Called function display_histo_one in 0.0010006427764892578
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function pie_chart in 4.140695571899414
+
+Called function load_dataset_19 in 25.025278329849243
+
+Called function display_table in 0.004457235336303711
+
+Called function MapFigure in 5.41886830329895
+
+Called function display_histo_one in 0.0009975433349609375
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function pie_chart in 5.3056769371032715
+
+Called function load_dataset_19 in 0.007010221481323242
+
+Called function display_table in 0.005949258804321289
+
+Called function MapFigure in 6.084023952484131
+
+Called function display_histo_one in 0.0009965896606445312
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function pie_chart in 6.1201605796813965
+
+Called function load_dataset_20 in 29.058817148208618
+
+Called function load_dataset_19 in 51.79930377006531
+
+Called function load_dataset_20 in 29.457184314727783
+
+Called function display_table in 0.009007930755615234
+
+Called function MapFigure in 2.551715135574341
+
+Called function display_histo_one in 0.0
+
+Called function pie_chart in 0.0009992122650146484
+
+Called function load_dataset_20 in 0.22439932823181152
+
+Called function display_table in 3.3877646923065186
+
+Called function load_dataset_19 in 67.71806049346924
+
+Called function display_table in 0.0029861927032470703
+
+Called function MapFigure in 11.711727380752563
+
+Called function display_histo_one in 0.0
+
+Called function pie_chart in 0.0009970664978027344
+
+Called function MapFigure in 5.865249872207642
+
+Called function display_histo_one in 0.0
+
+Called function pie_chart in 0.0
+
+Called function load_dataset_20 in 31.93458604812622
+
+Called function display_table in 0.15917396545410156
+
+Called function MapFigure in 2.238011121749878
+
+Called function display_histo_one in 0.0009965896606445312
+
+Called function pie_chart in 0.00101470947265625
+
+Called function load_dataset_19 in 64.62521409988403
+
+Called function display_table in 0.005983591079711914
+
+Called function MapFigure in 4.260975360870361
+
+Called function display_histo_one in 0.0009908676147460938
+
+Called function pie_chart in 0.0
+
+Called function load_dataset_20 in 19.41561269760132
+
+Called function display_table in 0.0019609928131103516
+
+Called function MapFigure in 2.0950746536254883
+
+Called function display_histo_one in 0.0
+
+Called function pie_chart in 0.0
+
+Called function load_dataset_20 in 0.0029959678649902344
+
+Called function display_table in 0.0
+
+Called function MapFigure in 2.0981099605560303
+
+Called function display_histo_one in 0.0
+
+Called function pie_chart in 0.0
+
+Called function load_dataset_20 in 0.007021903991699219
+
+Called function display_table in 0.0009961128234863281
+
+Called function MapFigure in 1.9482874870300293
+
+Called function display_histo_one in 0.0
+
+Called function pie_chart in 0.0
+
+Called function load_dataset_20 in 0.003065347671508789
+
+Called function display_table in 0.0
+
+Called function MapFigure in 2.1979405879974365
+
+Called function display_histo_one in 0.0
+
+Called function pie_chart in 0.0009953975677490234
+
+Called function load_dataset_20 in 0.005087137222290039
+
+Called function display_table in 0.0009908676147460938
+
+Called function MapFigure in 4.184831380844116
+
+Called function display_histo_one in 0.0
+
+Called function pie_chart in 0.0
+
+Called function load_dataset_20 in 0.003985881805419922
+
+Called function display_table in 0.0
+
+Called function MapFigure in 3.409623384475708
+
+Called function display_histo_one in 0.0009949207305908203
+
+Called function pie_chart in 0.0
+
+Called function load_dataset_20 in 0.0050318241119384766
+
+Called function display_table in 0.0009963512420654297
+
+Called function MapFigure in 2.3886380195617676
+
+Called function display_histo_one in 0.0009963512420654297
+
+Called function pie_chart in 0.0009562969207763672
+
+Called function load_dataset_20 in 0.00299072265625
+
+Called function display_table in 0.0009970664978027344
+
+Called function MapFigure in 2.049807548522949
+
+Called function display_histo_one in 0.0
+
+Called function pie_chart in 0.0
+
+Called function load_dataset_20 in 0.0019941329956054688
+
+Called function display_table in 0.0010249614715576172
+
+Called function MapFigure in 1.9935572147369385
+
+Called function display_histo_one in 0.0009958744049072266
+
+Called function pie_chart in 0.0
+
+Called function load_dataset_20 in 0.00698399543762207
+
+Called function display_table in 0.0
+
+Called function MapFigure in 1.9074018001556396
+
+Called function display_histo_one in 0.0010089874267578125
+
+Called function pie_chart in 0.0
+
+Called function load_dataset_20 in 0.0070002079010009766
+
+Called function display_table in 0.0
+
+Called function MapFigure in 3.6284019947052
+
+Called function display_histo_one in 0.0019948482513427734
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function pie_chart in 2.1277523040771484
+
+Called function load_dataset_19 in 46.49258351325989
+
+Called function display_table in 0.00797891616821289
+
+Called function MapFigure in 3.7405312061309814
+
+Called function display_histo_one in 0.000997304916381836
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function pie_chart in 3.32712721824646
+
+Called function load_dataset_19 in 0.003984689712524414
+
+Called function display_table in 0.0009968280792236328
+
+Called function MapFigure in 3.294279098510742
+
+Called function display_histo_one in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function pie_chart in 4.011316299438477
+
+Called function load_dataset_19 in 0.006944417953491211
+
+Called function display_table in 0.011886835098266602
+
+Called function MapFigure in 3.7231478691101074
+
+Called function display_histo_one in 0.0009963512420654297
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function pie_chart in 4.554796934127808
+
+Called function load_dataset_20 in 31.79357671737671
+
+Called function display_table in 0.015957117080688477
+
+Called function MapFigure in 2.9361205101013184
+
+Called function display_histo_one in 0.0
+
+Called function pie_chart in 0.0
+
+Called function load_dataset_20 in 24.56802463531494
+
+Called function display_table in 0.009488582611083984
+
+Called function MapFigure in 3.2656514644622803
+
+Called function display_histo_one in 0.0
+
+Called function pie_chart in 0.0
+
+Called function load_dataset_20 in 0.005959987640380859
+
+Called function display_table in 0.0009942054748535156
+
+Called function load_dataset_20 in 0.003982067108154297
+
+Called function display_table in 0.0009999275207519531
+
+Called function MapFigure in 2.0272367000579834
+
+Called function display_histo_one in 0.0
+
+Called function pie_chart in 0.0
+
+Called function load_dataset_20 in 0.002991914749145508
+
+Called function display_table in 0.0
+
+Called function MapFigure in 2.2800989151000977
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0010027885437011719
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function display_histo_one in 2.1669514179229736
+
+Called function pie_chart in 0.0
+
+Called function load_dataset_20 in 0.0039827823638916016
+
+Called function display_table in 0.04926609992980957
+
+Called function MapFigure in 1.9370920658111572
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0009758472442626953
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function display_histo_one in 2.2785048484802246
+
+Called function pie_chart in 0.0009903907775878906
+
+Called function load_dataset_20 in 0.0009980201721191406
+
+Called function display_table in 0.0030264854431152344
+
+Called function MapFigure in 2.6622939109802246
+
+Called function display_histo_one in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function pie_chart in 2.0529398918151855
+
+Called function load_dataset_19 in 41.978352785110474
+
+Called function display_table in 0.010940074920654297
+
+Called function MapFigure in 4.845201015472412
+
+Called function display_histo_one in 0.0009961128234863281
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function count_rows in 0.0
+
+Called function pie_chart in 4.436724424362183
